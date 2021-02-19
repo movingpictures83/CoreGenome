@@ -1,0 +1,2 @@
+fasta	files.nuc.txt
+dbtype	nucleotide

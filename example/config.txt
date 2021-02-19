@@ -1,0 +1,3 @@
+Prefix plugins/CoreGenome/example/
+#Plugin CoreGenome inputfile parameters.protein.txt outputfile orthologs.faa
+Plugin CoreGenome inputfile parameters.nucleotide.txt outputfile orthologs.nuc.faa
