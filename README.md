@@ -1,0 +1,2 @@
+# CoreGenome
+Core genome computation
